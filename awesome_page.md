@@ -1,8 +1,8 @@
 ### Hello, this is a h3
 
-** This is bold text man **
+**This is bold text man**
 
-* This is how we make italics *
+*This is how we make italics*
 
 ```
 <p>Heres some HTML</p>
