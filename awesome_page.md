@@ -6,11 +6,11 @@
 
 ```
 <p>Heres some HTML</p>
-<ol>
+<ul>
 	<li>Jeff</li>
 	<li>Sarah</li>
 	<li>Vivek</li>
-</ol>
+</ul>
 ```
 
 [link](http://www.google.com)
